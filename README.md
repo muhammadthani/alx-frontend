@@ -1,2 +1,2 @@
 # ALX Frontend
-Nahom Getachew Gari
+Muhammad Thani Abdulkadir
